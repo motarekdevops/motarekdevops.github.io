@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="portrait.webp" alt="Mohamed Tarek" width="140" style="border-radius:50%" />
+<img src="My_Logo_upscaled-removebg-preview.png" alt="Mohamed Tarek" width="140" style="border-radius:50%" />
 
 # Mohamed Tarek — DevOps Engineer
 
